@@ -19,6 +19,4 @@
 
       For the development tool I used visual studio code it can compile and executes the code.
 
-      OUTPUT:
-
-      ![Image](https://github.com/user-attachments/assets/c40ee7a3-004c-431b-8f7b-2fb69b4084dd)
+      
