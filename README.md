@@ -17,6 +17,6 @@
 
       Pip install requests Pandas Matplotlib Seaborn
 
-      For the development tool I used visual studio code it can compile and executes the code.
+      For the development tool I used visual studio code it can compile and execute the code.
+     
 
-      
