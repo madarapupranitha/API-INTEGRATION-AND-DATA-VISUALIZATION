@@ -20,4 +20,3 @@
       For the development tool I used visual studio code it can compile and executes the code.
 
       
-     < width="1490" height="709" alt="Image" src="https://github.com/user-attachments/assets/e32b181c-10a0-4c60-b92f-dc2ddfdbf4c6" />
