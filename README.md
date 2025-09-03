@@ -18,5 +18,7 @@
       Pip install requests Pandas Matplotlib Seaborn
 
       For the development tool I used visual studio code it can compile and execute the code.
-     
-      ![Image](https://github.com/user-attachments/assets/1a5c1e46-43c3-473d-b486-d2e4302f9505)
+
+      OUTPUT:
+      
+      <img width="1474" height="728" alt="Image" src="https://github.com/user-attachments/assets/90e8240a-8b06-4b0b-93d9-5ca3506fce73" />
