@@ -19,3 +19,6 @@
 
       For the development tool I used visual studio code it can compile and executes the code.
       
+      OUTPUT: 
+
+       <img width="1482" height="777" alt="Image" src="https://github.com/user-attachments/assets/50f7c43a-791a-4a7c-92ce-a86b7099662a" />
